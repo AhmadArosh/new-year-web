@@ -1,0 +1,350 @@
+.banner{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url('../images/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+
+    
+}
+.title , .subtitle{
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Merriweather", serif;
+  font-style: normal;
+  color: #FFFFFF;
+  
+}
+.subtitle{
+font-size: 30px;
+font-weight: 400;
+}
+.title{
+    font-size: 45px;
+    font-weight: 900;
+}
+.sale{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+line-height: 107px;
+letter-spacing: 0%;
+text-align: center;
+}
+.deals{
+    margin-top: 30px;
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: center;
+}
+.all{
+    margin-top: 15px;
+    color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;}
+.photo{
+   margin-top: 200px;
+position: absolute;
+width: 802.9px;
+height: 651px;
+left: 399px;
+right: -399px;
+top: 925px;
+bottom: -770px;
+}
+.midnight{
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin-top: 900px;
+
+
+}
+#img{
+ margin-left: 900px;
+ margin-bottom: 400px;
+}
+
+.p-title{
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 11%;
+text-align: center;
+}
+.p-subtitle{
+    color: rgba(255, 255, 255, 0.8);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+}
+.p-join{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+text-transform: uppercase;
+margin-top: 200px;
+}
+.time{
+    font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+border-radius: 16px;
+background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+}
+.s{
+color: #FF0000;
+}
+.btn{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: uppercase;
+border-radius: 8px;
+
+background: rgb(255, 0, 0);
+}
+.offer{
+    margin-top: 250px;
+   
+
+    
+}
+.best{
+    color: rgb(255, 0, 0);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+}
+.come{
+  
+
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0%;
+text-transform: capitalize;
+}
+.dolor{
+    /* Dolor sit amet consectetur. Consequat eget consectetur maecenas sed molestie malesuada. Ipsum sed sodales risus ut pellentesque vel euismod. */
+position: absolute;
+width: 393px;
+height: 128px;
+left: 140px;
+right: -140px;
+top: 3249px;
+bottom: -3122px;
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+}
+/* .pp{ */
+.dolor-2{
+    /* Dolor sit amet consectetur. Consequat eget consectetur maecenas sed. */
+position: absolute;
+width: 276px;
+height: 96px;
+left: 1184px;
+right: -1184px;
+top: 3204px;
+bottom: -3130px;
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0%;
+text-align: left;
+}
+.year{color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0%;
+}
+.function{
+      font-family: "Inter", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 600;
+      font-size: 35px;
+      font-style: normal;
+      font-variation-settings:
+        "slnt" 0;
+        text-align: center;
+        margin-top: 200px;
+    
+    }
+    .holiday{
+        color: #FF0000;
+    }
+    .holi{
+        font-family: "Inter", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 600;
+      font-size: 60px;
+      font-style: normal;
+      font-variation-settings:
+        "slnt" 0;
+        text-align: center;
+        
+    }
+.dolor-3{
+    font-family: "Inter", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 300;
+      font-size: 20px;
+      font-style: normal;
+      font-variation-settings:
+        "slnt" 0;
+        text-align: center;
+        
+}
+.sale-2{
+    display: flex;
+    align-items: flex-start;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.img-3{
+    background-image: url('../images/Rectangle\ 2.png'); 
+    background-repeat: no-repeat;
+    background-position: bottom;
+ 
+    
+}
+.gift{
+    font-family: "Inter", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 300;
+      font-size: 24px;
+      font-style: normal;
+      font-variation-settings:
+        "slnt" 0;
+        color: #FF0000; 
+        margin-top: 200px;
+}
+.item{
+    display: flexbox;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.portfolio{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 40px;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+}
+.dolor-4{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-size: 20px;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+      margin-right: 450px;
+}
+.subscribe{
+    display: flexbox;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+      margin-top: 250px;
+      background-color: bisque;
+      background-size: 800px 800px;
+}
+.Newsletter{
+    
+    color: #070211;
+    font-size: 48px;
+    text-align: center;
+}
+.dolor-5{
+    color: #070211;
+    font-size: 23px;
+    text-align: center;
+}
+
+
+.email-2{
+    border: none;
+  margin-left:440px ;
+  height: 70px;
+  width: 440px;
+ border-radius: 50px 0 0 50px;
+}
+.btn-2{
+ background-color: #FF0000;
+ color: #FFFFFF;
+ border: none;
+ margin-left: -20px ;
+ width: 210px;
+ height: 70px;
+ border-radius: 0 50px 50px 0;
+}
+.img-5{
+    margin-left: 660px;
+    width: 250px;
+    height: 250px;
+}
+.foot{
+    background-color: #070211;
+    margin-top: 150px;
+    display: flexbox;
+    justify-content: space-between;
+    font-family: "Inter", sans-serif;
+    color: #FFFFFF;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 24px;
+    font-variation-settings:
+      "slnt" 0;
+}
+.icon{
+    margin-left: 600px ;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
